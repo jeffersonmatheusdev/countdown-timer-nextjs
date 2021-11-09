@@ -10,7 +10,7 @@
 
 ## Visual da página do gerador
 
-![Foo](https://github.com/jeffersonmatheusdev/genpassword/blob/main/Prints/homepage.png?raw=true)
+![Foo](https://github.com/jeffersonmatheusdev/countdown-timer-nextjs/blob/main/Prints/homepage.png?raw=true)
 
 ## Visualizando o resultado localmente
 
