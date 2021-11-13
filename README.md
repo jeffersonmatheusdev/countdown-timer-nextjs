@@ -8,11 +8,11 @@
 
 ## Visual da página
 
-![Foo](https://github.com/jeffersonmatheusdev/countdown-timer-nextjs/blob/main/Prints/homepage.png?raw=true)
+![Foo](https://user-images.githubusercontent.com/32532873/141648591-1af99e77-8281-4d43-9227-c2508f0df097.png)
 
 ## Visual da página quando acionado o contador
 
-![Foo](https://github.com/jeffersonmatheusdev/countdown-timer-nextjs/blob/main/Prints/homepage_.png?raw=true)
+![Foo](https://user-images.githubusercontent.com/32532873/141648592-270d86ee-2e89-4b35-a019-1218dd4c3881.png)
 
 ## Visualizando o resultado localmente
 
